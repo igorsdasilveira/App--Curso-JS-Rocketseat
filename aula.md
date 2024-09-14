@@ -71,6 +71,21 @@ start()
 
 ## Estruturas de repetição
 
-- [x] while
-- 
+- [x] while  ex.: 
+const start = () => {
+    let count = 0 
+    while(count <= 10) {
+    console.log(count)
+    count = count + 1
+    }
+}
+start()
+
+## while(true) , por exemplo, é necessário q haja um return para que a função seja interrompida!
+
+
+## Condicionais
+
+- [x] switch
+
 
