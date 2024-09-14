@@ -26,16 +26,37 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 
 ## Escopo e variáveis
 
-- Variáveis globais e locais
-- Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados
-- Strings (textos): "" '' ``
-- Number: 2  1.4
-- Function
+- [x] Strings (textos): "" '' ``
+- [x] Number: 2  1.4
+- [x] Function
+- [x] Bollean: true, false (Depende se a meta foi completada ou não)!
 
 ## Operadores
 
-- Operadores de atribuição de valor (=)
-- 
+- [x] Operadores de atribuição de valor (=)
+- [x] Operador de concatenação (+), é a junção de 2 ou mais Strings
+
+## Estruturas de dados:
+
+### Arrays: Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos (.)
+
+### Functions
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function, ex.: 
+// function // arrow function
+const criarMeta = () => {}
+- [x] named function, ex.:
+function criarMeta() {}
 
