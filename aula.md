@@ -30,6 +30,7 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 - [x] Constantes
 
 ## Tipos de dados
+
 - [x] Strings (textos): "" '' ``
 - [x] Number: 2  1.4
 - [x] Function
@@ -87,5 +88,21 @@ start()
 ## Condicionais
 
 - [x] switch
+
+## Módulos em Node.js
+
+- [x] Importação de módulos (require, CommomJS)
+   - Ocorre com a instalação, ex.:  
+     npm install inquirer 
+   - E a utilização, ex.: 
+     const { select } = require('@inquirer/prompts')
+
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- Uso de funções assíncronas (async/await)
+
+
 
 
