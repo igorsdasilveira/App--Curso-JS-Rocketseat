@@ -39,6 +39,7 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 
 - [x] Operadores de atribuição de valor (=)
 - [x] Operador de concatenação (+), é a junção de 2 ou mais Strings
+- [x] Operador de comparação (<, >)
 
 ## Estruturas de dados:
 
@@ -55,8 +56,21 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 - [x] criar, passar argumento
 - [x] executar
 - [x] arrow function, ex.: 
-// function // arrow function
-const criarMeta = () => {}
+const start = () => {
+   console.log('começou')
+}
+start()
+
 - [x] named function, ex.:
-function criarMeta() {}
+function start() {
+   console.log('começou')
+}
+start()
+
+## count++   =    count = count + 1
+
+## Estruturas de repetição
+
+- [x] while
+- 
 
