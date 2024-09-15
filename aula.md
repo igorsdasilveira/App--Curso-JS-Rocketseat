@@ -40,7 +40,7 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 
 - [x] Operadores de atribuição de valor (=)
 - [x] Operador de concatenação (+), é a junção de 2 ou mais Strings
-- [x] Operador de comparação (<, >)
+- [x] Operador de comparação (<, >)  ( == )  ( != )  (<=)  (=>)
 
 ## Estruturas de dados:
 
@@ -88,6 +88,7 @@ start()
 ## Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js
 
@@ -103,6 +104,4 @@ start()
 
 - Uso de funções assíncronas (async/await)
 
-
-
-
+## Cada linguagem de programação tem seu maneira de escrita: Sintaxe
