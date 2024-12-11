@@ -41,10 +41,13 @@ Como um lego, vc irá utilizar peças para montar um algoritmo, ou seja, para re
 - [x] Operadores de atribuição de valor (=)
 - [x] Operador de concatenação (+), é a junção de 2 ou mais Strings
 - [x] Operador de comparação (<, >)  ( == )  ( != )  (<=)  (=>)
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays: Uma lista que contém qualquer tipo de dado
+
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
